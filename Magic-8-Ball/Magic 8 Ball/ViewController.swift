@@ -6,7 +6,7 @@ class ViewController: UIViewController {
     //   Declared images array
     
     let images: [UIImage] = [UIImage(named: "ball1")!,UIImage(named: "ball2")!,UIImage(named: "ball3")!,UIImage(named: "ball4")!,UIImage(named: "ball5")!]
-//    imge
+//    imageview declared
 
     @IBOutlet weak var imageView: UIImageView!
     
